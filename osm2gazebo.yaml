@@ -1,0 +1,6 @@
+center:
+  lat: 1.318636
+  lon: 103.8164001
+gpickle_file: osm2gazebo.gpickle
+scale: 0.1
+sdf_file: osm2gazebo.sdf
